@@ -54,6 +54,8 @@
     <Compile Include="DingMitDatum.cs" />
     <Compile Include="DingMitDatumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SymbolZaehler.cs" />
+    <Compile Include="SymbolZaehlerTest.cs" />
     <Compile Include="VorlagenVerwalter.cs" />
     <Compile Include="VorlagenVerwalterTest.cs" />
     <Compile Include="Zaehler.cs" />
