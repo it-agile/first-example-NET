@@ -13,5 +13,11 @@ namespace Examples
         {
             Assert.AreEqual(DateTime.Now, dingUnterTest.ErstellungsDatum);
         }
+
+        [TestMethod]
+        public void merktSichWannEsErstelltWurdeDebug()
+        {
+            Console.WriteLine(dingUnterTest.ErstellungsDatum);
+        }
     }
 }
